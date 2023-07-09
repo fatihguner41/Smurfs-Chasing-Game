@@ -7,6 +7,8 @@
 
  From harita.txt you can change the map,smurf to play with or the starting positions.
 
+ If you have any java compile errors try to use Jdk11.
+
  
  
 ![Ekran Alıntısı](https://github.com/fatihguner41/Smurfs-Chasing-Game/assets/102809520/bfdf1740-5704-41b3-bc61-c4ddfe657426)
